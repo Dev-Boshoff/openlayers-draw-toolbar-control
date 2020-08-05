@@ -26,5 +26,5 @@ const olMap = new Map({
 });
 ```
 Change constructor as required.
-![Image of drawTool](https://github.com/Dev-Boshoff/openlayers-draw-toolbar-control/drawTool.png)
+![Image of drawTool](https://github.com/Dev-Boshoff/openlayers-draw-toolbar-control/blob/master/drawTool.PNG)
 
